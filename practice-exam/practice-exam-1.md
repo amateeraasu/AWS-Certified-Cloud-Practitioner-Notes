@@ -511,6 +511,17 @@ layout: exam
     - B. Premium RI.
     - C. Standard RI.
     - D. Convertible RI.
+    - 
+
+Summary of My Performance:
+
+Total Questions: 50
+
+Correct Answers: 30
+
+Incorrect Answers: 19
+
+Missing Answer: 1 (Question 25)
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
